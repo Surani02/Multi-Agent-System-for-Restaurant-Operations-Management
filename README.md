@@ -30,7 +30,7 @@ This system follows a Request-Response Architecture, where agents interact to fu
   
 ## Technologies and Tools Used
 Programming Language: Python
-Framework: SPADE (Simple Platform for Agent Development & Execution)
+Framework: SPADE (Smart Python Agent Development Environment)
 Communication Protocol: XMPP (Prosody server)
 
 ## Future Scope
